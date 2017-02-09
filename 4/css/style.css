@@ -96,10 +96,14 @@ ul {
       -ms-flex-align: center;
           align-items: center;
   z-index: 2;
-  background: #2b3033;
+  background: transparent;
   cursor: pointer;
   -webkit-transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border-radius:100px;
+}
+.burger--active {
+border-radius:0;
 }
 .burger:hover {
   background: #272b2e;
