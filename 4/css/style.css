@@ -14,6 +14,13 @@ a:focus, a:hover {
     color: #fff;
 }
 
+#price {
+
+  width:100%;
+  height:35vh;
+
+}
+
 #logo {
 width:17%;
 }
