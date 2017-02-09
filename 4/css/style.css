@@ -83,6 +83,7 @@ ul {
   background: rgba(0, 0, 0, 0.08);
   -webkit-transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border: 2px dotted #80DEEA;
 }
 .nav__link:hover {
   background: #e6d068;
