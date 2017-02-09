@@ -106,11 +106,11 @@ ul {
 border-radius:0;
 }
 .burger:hover {
-  background: #272b2e;
+  background: #00b0ff;
 }
 .burger__patty {
   position: relative;
-  height: 2px;
+  height: 5px;
   width: 40px;
   background: white;
 }
@@ -119,7 +119,7 @@ border-radius:0;
   position: absolute;
   top: -10px;
   left: 0;
-  height: 2px;
+  height: 5px;
   width: 100%;
   background: white;
 }
@@ -128,7 +128,7 @@ border-radius:0;
   position: absolute;
   top: 10px;
   left: 0;
-  height: 2px;
+  height: 5px;
   width: 100%;
   background: white;
 }
