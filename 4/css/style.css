@@ -287,6 +287,6 @@ border-radius:0;
     padding-bottom: 50px;
 }
 .logo img:hover {
-  -webkit-transform: rotate(180deg) scale(1.1);
-          transform: rotate(180deg) scale(1.1);
+ /* -webkit-transform: rotate(180deg) scale(1.1);
+          transform: rotate(180deg) scale(1.1);*/
 }
