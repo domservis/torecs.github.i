@@ -30,8 +30,8 @@ ul {
   -ms-flex-flow: column wrap;
       flex-flow: column wrap;
   height: 85vh;
-  -webkit-transform: translate(0, -100%);
-          transform: translate(0, -100%);
+  -webkit-transform: translate(0, -150%);
+          transform: translate(0, -150%);
   -webkit-transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
