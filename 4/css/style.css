@@ -131,7 +131,7 @@ ul {
 border-radius:0;
 }
 .burger:hover {
-  background: #00b0ff;
+  background: transparent;
 }
 .burger__patty {
   position: relative;
