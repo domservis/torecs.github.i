@@ -243,7 +243,10 @@ border-radius:0;
 
 .c-green {
   color: #fff;
+}.c-green:hover {
+  background: #68e6ac;
 }
+
 
 .c-yellow {
   color: #fff;
