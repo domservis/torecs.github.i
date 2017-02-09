@@ -8,6 +8,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+
+a:focus, a:hover {
+    color: #5bc0de;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
