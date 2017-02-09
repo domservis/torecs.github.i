@@ -16,3 +16,5 @@ body{
   padding:8px; 
   color:#ccc;
 }
+::-webkit-scrollbar {
+    width: 2px;
