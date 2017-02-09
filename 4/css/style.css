@@ -10,7 +10,7 @@ body {
 
 
 a:focus, a:hover {
-    color: #5bc0de;
+    color: #fff;
 }
 
 ul {
@@ -67,7 +67,7 @@ ul {
   left: 0;
   text-decoration: none;
   font-size: 24px;
-  background: rgba(0, 0, 0, 0.28);
+  /*background: rgba(0, 0, 0, 0.28);*/
   -webkit-transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
