@@ -3,9 +3,10 @@
 }
 
 body {
-  font-family: 'Montserrat';
+ /* font-family: 'Montserrat';*/
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  font-family: -apple-system,BlinkMacSystemFont,Roboto,Open Sans,Helvetica Neue,sans-serif;
 }
 
 
@@ -293,6 +294,6 @@ border-radius:0;
 .logo img:hover {
  /* -webkit-transform: rotate(180deg) scale(1.1);
           transform: rotate(180deg) scale(1.1);*/
-   transform: scale(3, 2);
+   transform: scale(2, 2);
     padding-bottom: 50px;
 }
