@@ -26,7 +26,9 @@ body{
 }
 .table-bordered {
     border: 1px solid #b86a53;
+  border-radius: 20px;
 }
 table {
     background-color: rgb(255, 255, 255);
+  border-radius: 20px;
 }
