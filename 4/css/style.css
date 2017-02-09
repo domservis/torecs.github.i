@@ -278,7 +278,7 @@ border-radius:0;
 
 .logo {
   position: fixed;
-  bottom: 3vh;
+  bottom:8.5vh;
   right: 3vw;
   z-index: 2;
 }
@@ -295,6 +295,6 @@ border-radius:0;
  /* -webkit-transform: rotate(180deg) scale(1.1);
           transform: rotate(180deg) scale(1.1);*/
    transform: scale(2, 2);
-    padding-bottom: 50px;
-  padding-right: 50px;
+    padding-bottom: 35px;
+  padding-right: 15px;
 }
