@@ -230,6 +230,9 @@ border-radius:0;
 
 .c-blue {
   color: #fff;
+}.c-blue:hover {
+  background: #5bc0de;
+  color:#fff;
 }
 
 .c-red {
