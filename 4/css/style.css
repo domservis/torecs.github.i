@@ -248,10 +248,10 @@ border-radius:0;
 }
 
 .b-blue {
-/*  background: #5fc7ea;*/
-      background: url(https://torecs.github.io/4/WrenchIcon.png)#5fc7ea no-repeat;
+ background: #5fc7ea;
+      /*background: url(https://torecs.github.io/4/WrenchIcon.png)#5fc7ea no-repeat;
         background-size: 30% 15%;  
-    background-position: 50% 20%;
+    background-position: 50% 20%;*/
 }
 
 .b-red {
