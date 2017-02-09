@@ -237,6 +237,8 @@ border-radius:0;
 
 .c-red {
   color: #fff;
+}.c-red:hover {
+  background: #e68568;
 }
 
 .c-green {
