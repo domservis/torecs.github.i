@@ -296,4 +296,5 @@ border-radius:0;
           transform: rotate(180deg) scale(1.1);*/
    transform: scale(2, 2);
     padding-bottom: 50px;
+  padding-right: 50px;
 }
