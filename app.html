@@ -42,15 +42,28 @@ window.ChatraSetup = {
 });</script> 
 	<!-- /chatra -->
 </head>
-<body>
-
-
-<div id="chatra-wrapper"  style="border-radius:30px;height:100vh;width:100%;"></div>
+<body class="drawer drawer--top">
+  <header role="banner">
+    <button type="button" class="drawer-toggle drawer-hamburger">
+      <span class="sr-only">toggle navigation</span>
+      <span class="drawer-hamburger-icon"></span>
+    </button>
+    <nav class="drawer-nav" role="navigation">
+      <ul class="drawer-menu">
+        <li><a class="drawer-brand" href="#">Brand</a></li>
+        <li><a class="drawer-menu-item" href="#">Nav1</a></li>
+        <li><a class="drawer-menu-item" href="#">Nav2</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main role="main">
+   <div id="chatra-wrapper"  style="border-radius:30px;height:100vh;width:100%;"></div>
 	
 	<center><p class="phone">Звонок <span><!--+7 (495) 055-27-57-->
 <a href="tel:+7 (495) 055-27-57" style="
     text-decoration: none;
     color: #FF4603;
 					">+7 (495) 055-27-57</a></span></p></center>
-	
-	</body></html>
+  </main>
+</body>
+</html>
