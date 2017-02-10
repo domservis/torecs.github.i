@@ -15,6 +15,7 @@ a:focus, a:hover {color: #fff;}
 
 #cl {width:3em;}
 #cx {font-size:14px;}
+#logo {width:30%;}
 #txu {width: 50px;height: 20px;position: absolute;background: rgba(209, 189, 95, 0.98);left: 237px;top: 6px;z-index: 0;}
 #txu1 {width: 124px;height: 20px;position: absolute;background: rgb(230, 208, 104);left: 170px;top: 97.3vh;z-index: 0;}
 #price {width:100%;height:850px;border:0;border-radius:30px;}
@@ -25,9 +26,12 @@ a:focus, a:hover {color: #fff;}
     background: rgba(0, 0, 0, 0.09);
     border: 2px dotted #80DEEA;}
 
-#logo {width:30%;}
 
-@media (max-width: 640px) { #logo { width:30%; }}
+
+@media (max-width: 640px) {
+  #logo { width:30%; }
+}
+
 ul {
   list-style-type: none;
   padding: 0;
