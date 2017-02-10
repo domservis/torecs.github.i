@@ -32,7 +32,7 @@ a:focus, a:hover {color: #fff;}
 @media (max-width: 640px) {
   #logo { width:30%; }
   #ptx {color: #fff;position: absolute;left: 1vh;top: 6vh;}
-  #a{padding-top: 46px;}
+  #a{padding-top: 0px;}
 }
 
 ul {
